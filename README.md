@@ -19,9 +19,9 @@
 Със `*` са отбелязани новите записи на лекциите. 
 1. [Програмиране със Swift: Променливи и константи](https://youtu.be/3qEOaLRTMd4) *
 1. [Програмиране със Swift: Функции](https://youtu.be/kqeekILnbY8) *
-1. [Програмиране със Swift: Структори](https://youtu.be/EbAJvNI_-CM)
-1. [Програмиране със Swift: Класове](https://youtu.be/uA78R2F39DQ)
-1. [Програмиране със Swift: Протоколи, Разширения, Изброени типове](https://youtu.be/_qTlOYqaYZ4)  
+1. [Програмиране със Swift: Структури](https://youtu.be/-e4_g1AtPEk) * [версия 2019](https://youtu.be/EbAJvNI_-CM)
+1. [Програмиране със Swift: Класове](https://youtu.be/jxJp-dGgtoE) * [версия 2019](https://youtu.be/uA78R2F39DQ)
+1. [Програмиране със Swift: Протоколи, Разширения, Изброени типове](https://youtu.be/lkIkYbKsThU) * [версия 2019](https://youtu.be/_qTlOYqaYZ4)  
 1. [Програмиране със Swift: Клоужъри (Closures)](https://youtu.be/h0G21LmUoPc)
 1. [Програмиране със Swift: Управление на памет](https://youtu.be/7yquCtt6fsw)
 1. [Програмиране със Swift: Шаблони](https://youtu.be/vSIbhH9OYxE)       
