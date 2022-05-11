@@ -21,9 +21,10 @@
 1. [Програмиране със Swift: Функции](https://youtu.be/kqeekILnbY8) *
 1. [Програмиране със Swift: Структури](https://youtu.be/-e4_g1AtPEk) * [версия 2019](https://youtu.be/EbAJvNI_-CM)
 1. [Програмиране със Swift: Класове](https://youtu.be/jxJp-dGgtoE) * [версия 2019](https://youtu.be/uA78R2F39DQ)
-1. [Програмиране със Swift: Протоколи, Разширения, Изброени типове](https://youtu.be/lkIkYbKsThU) * [версия 2019](https://youtu.be/_qTlOYqaYZ4)  
-1. [Програмиране със Swift: Клоужъри (Closures)](https://youtu.be/h0G21LmUoPc)
-1. [Програмиране със Swift: Управление на памет](https://youtu.be/7yquCtt6fsw)
+1. [Програмиране със Swift: Протоколи, Разширения](https://youtu.be/lkIkYbKsThU) * [версия 2019](https://youtu.be/_qTlOYqaYZ4) 
+1. [Програмиране със Swift: Изброени типове](https://youtu.be/FpAwdmHjH64) * [версия 2019](https://youtu.be/_qTlOYqaYZ4)  
+1. [Програмиране със Swift: Клоужъри (Closures)](https://youtu.be/ULIXsjFKiyY) * [версия 2019](https://youtu.be/h0G21LmUoPc)
+1. [Програмиране със Swift: Управление на памет](https://youtu.be/SbnMmTFD-Ko) * [версия 2019](https://youtu.be/7yquCtt6fsw)
 1. [Програмиране със Swift: Шаблони](https://youtu.be/vSIbhH9OYxE)       
 1. [Програмиране със Swift: SwiftPackageManager 1](https://youtu.be/qhT0b7D0TY4)
 1. [Програмиране със Swift: SwiftPackageManager 2](https://youtu.be/eXbE7Mn-umg)
@@ -46,6 +47,8 @@
 
 ### Тест №1
 На 10 май в зала 325 на ФМИ от 18:00 часа.
+
+Резултатите може да намерите [тук](https://github.com/SwiftFMI/swift_2021_2022/blob/main/homework/test-1-results.md)
 
 ### Тест №2
 На 7 юни в зала 325 на ФМИ от 18:00 часа.
@@ -76,7 +79,7 @@ swift.fmi@gmail.com
 ---
 1. Как ще протичат лекциите и семинара?
 	
-	> Лекциите и семинатите ще се провеждат всеки __вторник от 18:00 до 21:00 онлайн__ (Ако има присъствени лекции те ще са в зала 325 на ФМИ по същото време).
+	> Лекциите и семинатите ще се провеждат всеки __вторник от 18:00 до 21:00 онлайн__ (Ако има присъствени лекции те ще са в зала 314 на ФМИ по същото време).
 
 2. Какво ще бъде оценяването?
 	
