@@ -25,10 +25,13 @@
 1. [Програмиране със Swift: Изброени типове](https://youtu.be/FpAwdmHjH64) * [версия 2019](https://youtu.be/_qTlOYqaYZ4)  
 1. [Програмиране със Swift: Клоужъри (Closures)](https://youtu.be/ULIXsjFKiyY) * [версия 2019](https://youtu.be/h0G21LmUoPc)
 1. [Програмиране със Swift: Управление на памет](https://youtu.be/SbnMmTFD-Ko) * [версия 2019](https://youtu.be/7yquCtt6fsw)
-1. [Програмиране със Swift: Шаблони](https://youtu.be/vSIbhH9OYxE)       
-1. [Програмиране със Swift: SwiftPackageManager 1](https://youtu.be/qhT0b7D0TY4)
-1. [Програмиране със Swift: SwiftPackageManager 2](https://youtu.be/eXbE7Mn-umg)
-1. [Програмиране със Swift: Swift on the backend - Vapor](https://youtu.be/bi9dTAESvQA)
+1. [Програмиране със Swift: Шаблони](https://youtu.be/9W5EULDDhBU) * [версия 2019](https://youtu.be/vSIbhH9OYxE)
+1. [Програмиране със Swift: Атрибути и грешки](https://github.com/SwiftFMI/SwiftLectures/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-11.md) * няма видео
+1. [Програмиране със Swift: KeyPath и PropertyWrapper](https://github.com/SwiftFMI/SwiftLectures/blob/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-12.md) * няма видео
+    
+1. [Програмиране със Swift: SwiftPackageManager 1](https://youtu.be/qhT0b7D0TY4) - [допълнителен материал]
+1. [Програмиране със Swift: SwiftPackageManager 2](https://youtu.be/eXbE7Mn-umg) - [допълнителен материал]
+1. [Програмиране със Swift: Swift on the backend - Vapor](https://youtu.be/bi9dTAESvQA) - [допълнителен материал]
 
 ## Домашни работи
 
